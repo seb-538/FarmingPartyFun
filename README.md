@@ -13,9 +13,9 @@ To build the projet:
 
 # Screenshots
 
-![Alt text](Screenshots/Screen1.png?raw=true "Optional Title")
-![Alt text](Screenshots/Screen2.png?raw=true "Optional Title")
-![Alt text](Screenshots/Screen3.png?raw=true "Optional Title")
-![Alt text](Screenshots/Screen4.png?raw=true "Optional Title")
-![Alt text](Screenshots/Screen5.png?raw=true "Optional Title")
-![Alt text](Screenshots/Screen6.png?raw=true "Optional Title")
+![Alt text](Screenshots/Screen1.png?raw=true "Farm field")
+![Alt text](Screenshots/Screen2.png?raw=true "Tavern shop")
+![Alt text](Screenshots/Screen3.png?raw=true "Commands")
+![Alt text](Screenshots/Screen4.png?raw=true "Village amenagements")
+![Alt text](Screenshots/Screen5.png?raw=true "Village by night")
+![Alt text](Screenshots/Screen6.png?raw=true "Village by day")
