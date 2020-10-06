@@ -11,6 +11,8 @@ To build the projet:
 -Run the exececutable file.
 
 
+#Screenshots
+
 ![Alt text](Screenshots/Screen1.png?raw=true "Optional Title")
 ![Alt text](Screenshots/Screen2.png?raw=true "Optional Title")
 ![Alt text](Screenshots/Screen3.png?raw=true "Optional Title")
