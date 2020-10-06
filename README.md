@@ -9,3 +9,5 @@ To build the projet:
 -Click on "Build" then choose or create a folder where to build the solution.
 
 -Run the exececutable file.
+
+![Alt text](Screenshots/Image1.png?raw=true "Optional Title")
