@@ -10,4 +10,4 @@ To build the projet:
 
 -Run the exececutable file.
 
-![Alt text](Screenshots/Image1.png?raw=true "Optional Title")
+![Alt text](Screenshots/Screen1.png?raw=true "Optional Title")
